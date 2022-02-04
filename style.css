@@ -1,0 +1,18 @@
+#title, h2{
+    color: white;
+    background-color: rgb(92, 104, 69);
+    font-style: italic;
+}
+
+body{
+    background-color: #ccc;
+    padding: 10px;
+    
+}
+
+section{
+    background-color: white;
+    border: 3px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+}
