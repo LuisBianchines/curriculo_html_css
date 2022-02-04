@@ -4,6 +4,14 @@
     border-radius: 10px;
     font-style: italic;
     text-align: center;
+    
+}
+
+#perfil{
+    width: 15%;
+    border-radius: 8px;
+    margin: auto;
+    display: block;
 }
 
 body{
@@ -25,6 +33,24 @@ p, h4{
     text-align: justify;
 }
 
-footer{
-    text-align: center;
+table{
+    margin: auto;
+}
+tr, td{
+    padding: 20px;
+}
+#linkedin{
+    width: 200px;
+}
+
+#github{
+    width: 200px;
+}
+
+#instagram{
+    width: 200px;
+}
+
+#email{
+    width: 60px;
 }
