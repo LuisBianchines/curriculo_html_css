@@ -9,7 +9,8 @@
 
 #perfil{
     width: 15%;
-    border-radius: 8px;
+    border: 2px solid rgb(92, 104, 69);
+    border-radius: 50%;
     margin: auto;
     display: block;
 }
@@ -17,6 +18,8 @@
 body{
     background-color: #ccc;
     padding: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     
 }
 
@@ -24,13 +27,20 @@ section{
     background-color: white;
     border: 3px solid #ccc;
     border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
     padding: 10px;
     margin: 10px;
     
 }
 
-p, h4{
-    text-align: justify;
+p{
+    text-align: left;
+}
+
+h4{
+    text-align: left;
+    font-weight: bold;
 }
 
 table{
