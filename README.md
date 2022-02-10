@@ -1,1 +1,1 @@
-Clique para ver o <a href="http://luis-bianchine-curriculo.netlify.app" target="_blank">Curriculo</a>
+Clique para ver o <a href="http://curriculo-html-css-e8hbavtpa-luisbianchines.vercel.app" target="_blank">Curriculo</a>
