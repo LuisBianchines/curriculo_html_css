@@ -1,1 +1,1 @@
-Clique para ver o <a href="http://curriculo-html-css-e8hbavtpa-luisbianchines.vercel.app" target="_blank">Curriculo</a>
+Clique para ver o <a href="http://luis-curriculo-html-css-1.vercel.app" target="_blank">Curriculo</a>
